@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Vital-CAM; Vitalcam
+message: prev0
+type: software
+authors:
+  - given-names: John
+    family-names: Sunwoo
+    email: jsunwoo@mgb.org
+    affiliation: HMS
+    orcid: 'https://orcid.org/0000-0003-4314-7232'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17676516
+abstract: >-
+  a compact, palm-sized, low-cost (~$100) device that can
+  video-record bedside monitor displays and convert the
+  visible electrocardiogram (EKG) trace back into a clean
+  digital waveform, and compute its HRV in real-time.
+  Capture-And-Measure Clinical Acquisition Module
+  Computational Analysis Module.
